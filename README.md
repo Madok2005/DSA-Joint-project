@@ -212,30 +212,3 @@ share the same check — see §2):
   whichever representation suits the algorithm." `Main`'s Part 3 builds that
   graph from the real CSVs; the traversal/shortest-path algorithms
   themselves are the outstanding work in §7.
-
-## 7. Outstanding action items for the team (do not skip before final submission)
-
-1. **Index-number parameters are placeholders.** Open
-   `IndexNumberParameters.java` and replace `INDEX_NUMBER_A/B/C` with three
-   real team member index numbers, then recheck the derived constants.
-2. **Validate modelled data.** Per `docs/Evidence_note.txt`, coordinates,
-   distances/travel times, condition weights and most `service_requests`
-   rows are modelled, not observed. Replace or spot-check as many as
-   reasonably possible with real measurements/staff confirmation before the
-   report is finalised, and keep the evidence note updated to reflect what
-   was validated.
-3. **`RedBlackTree.delete()` and `BTree.delete()` are still `TODO`s** (a
-   deliberate, documented scope cut carried over from the structures
-   starter module — insert/search/traversal is implemented and satisfies
-   the brief's "clearly simplified balanced tree" allowance).
-4. **Extend Module M4.** This merge only covers Table 6's search/sort line
-   item plus a first, read-only connection to the structures module.
-   Scheduling/dispatch (queue/deque/priority-queue based — `BinaryHeap` is
-   now wired to real `service_requests.csv` data and ready for this), the
-   graph route engine (BFS/DFS/Dijkstra/Prim/Kruskal — `Graph` is now built
-   from real `locations.csv`/`roads.csv` data and ready for this), and the
-   required greedy and dynamic-programming algorithms are still owed per
-   the brief.
-5. **Run `mvn test` once you have Maven Central access** to confirm the
-   JUnit suites pass in a normal environment (only `javac`/`java` were
-   available where this merge was assembled and verified — see §4).
