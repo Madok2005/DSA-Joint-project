@@ -1,0 +1,51 @@
+﻿location_id,name,area,location_type,x_coord_m,y_coord_m
+L001,Balme Library Main Entrance,Main Building,Library-Main,0,0
+L002,IAC ,West Wing Second floor,Research and Examination Room,18,8
+L003,Knowledge Commons,East Wing Ground floor, Research and Examination Centre,20,12
+L004,Discussion Room,West Wing Ground floor,Discussion-Room,-16,6
+L005,Reading Room ,Northern Wing Ground floor ,Reading,17,15
+L006,A-Z  Zones,Northern Wing First to Last floor,Reading-Room,-4,18
+L007,Research Commons,East Wing Second floor,Research-Room,3,-15
+L008,24-Hour Reading Room,East Wing Last floor,Reading-Room,8,22
+L009,Braille Room,West Wing Ground floor,Special-Service,-20,4
+L010,Accessibility Support Point,West Wing,Special-Service,-18,2
+L011,Circulation Desk,Ground Floor,Service-Point,2,2
+L012,Returns Counter,Ground Floor,Service-Point,5,1
+L013,New Arrivals Corner,Ground Floor,Collection,8,1
+L014,Reserve Collection,Ground Floor,Collection,10,-3
+L015,Periodicals Corner,Ground Floor,Collection,12,-7
+L016,Ghana Studies Shelf,East Wing,Shelf-Block,14,-2
+L017,African Studies Shelf,East Wing,Shelf-Block,15,-5
+L018,Computer Science Shelf,East Wing,Shelf-Block,16,-8
+L019,Engineering Shelf,East Wing,Shelf-Block,13,-10
+L020,Business Shelf,East Wing,Shelf-Block,10,-11
+L021,Law Collection Shelf,West Wing,Shelf-Block,-8,-3
+L022,Arts Collection Shelf,West Wing,Shelf-Block,-11,-6
+L023,Education Collection Shelf,West Wing,Shelf-Block,-13,-9
+L024,Social Sciences Shelf,West Wing,Shelf-Block,-5,-11
+L025,Medical Sciences Shelf,North Wing,Shelf-Block,2,14
+L026,General Reference Shelf,North Wing,Shelf-Block,6,16
+L027,Thesis Repository Point,North Wing,Research-Room,9,17
+L028,Digitisation Unit,South Section,Service-Unit,11,-15
+L029,Scanning Station,South Section,Service-Unit,13,-15
+L030,Photocopy Service Point,South Section,Service-Point,15,-13
+L031,Staff Workroom,South Section,Staff-Area,17,-11
+L032,Book Trolley Bay,Ground Floor,Resource-Point,6,-1
+L033,Loading and Dispatch Point,South Entrance,Service-Point,18,-16
+L034,Library ICT Help Point,Ground Floor,Service-Point,-2,1
+L035,Quiet Study Zone A,Upper Level,Reading-Room,-6,12
+L036,Quiet Study Zone B,Upper Level,Reading-Room,-10,13
+L037,Group Study Zone A,Upper Level,Reading-Room,0,11
+L038,Group Study Zone B,Upper Level,Reading-Room,4,10
+L039,Postgraduate Study Zone,Upper Level,Research-Room,7,13
+L040,Library Orientation Point,Main Entrance,Information-Point,-1,4
+L041,Main Gate Access Point,Campus Edge,Access-Point,-28,0
+L042,Okponglo Gate Access Point,Campus Edge,Access-Point,28,-4
+L043,Bush Canteen Approach,Campus Route,Access-Point,-22,-10
+L044,Night Market Approach,Campus Route,Access-Point,24,8
+L045,Jean Nelson Approach,Campus Route,Access-Point,26,18
+L046,Library Security Point,Main Entrance,Security-Point,-4,2
+L047,Lost-and-Found Point,Ground Floor,Service-Point,1,-2
+L048,Staff Training Room,Upper Level,Training-Room,-2,17
+L049,Archive Holding Room,Restricted Area,Archive,20,-18
+L050,Book Processing Room,Restricted Area,Processing-Unit,22,-15

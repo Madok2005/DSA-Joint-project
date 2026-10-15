@@ -1,0 +1,51 @@
+LIBRARY DATASET – UNIQUE TEAM VERSION
+Context: University of Ghana Library / Balme Library operational system
+
+IMPORTANT:
+- The first set of location records were based on the handwritten findings by myself.
+- The other records are a project-specific modelled expansion that was created to reach the Joint DSA Project Brief minimum counts.
+- The modelled records should not be presented as directly observed facts.
+- Replace or validate any modelled values with my team's actual observations/authorised information where possible.
+- No patron names, student IDs, phone numbers, library-card numbers or individual borrowing histories are included.
+
+FILES AND COUNTS
+locations.csv: 50 records
+roads.csv: 100 records
+service_requests.csv: 300 records
+resources.csv: 30 records
+
+COORDINATE NOTE
+The x_coord_m and y_coord_m fields are local relative coordinates in metres for modelling the internal network. They are not claimed to be GPS coordinates.
+
+SOURCE/LOCALISATION NOTE
+The handwritten findings supplied by me(Mimi Appiah):
+-Places in the library
+- IAC section / West Wing Second floor
+- Knowledge commons / East Wing Ground floor
+- Discussion room / West Wing Ground floor
+- Research commons / East Wing Second floor
+- A-Z Zones / Northern Wing First floor to Last floor
+- Reading room / Northern Wing Ground floor
+- 24-hour reading room / East wing Last floor 
+- Braille room / West Wing Ground floor
+
+- Routes
+- This  includes the Main Gate, Okponglo Gate, Bush Canteen, Night Market, Diaspora, Traditional halls, and the Private Hostels
+These have been incorporated into the location/network model where they could be interpreted clearly.
+
+DATA PROVENANCE
+1. Who was interviewed/observed: Staff in the Balme Library.
+2. Date(s): 3rd and 5th of August,2026,
+3. Permission obtained by: ,
+4. Which fields were directly observed: The location names:the branches, wings, floors, and rooms (IAC, Knowledge Commons, Discussion Room, Research Commons, Reading Room, 24-Hour Reading Room, Braille Room, the A–Z zones).The area/wing/floor of each space (West Wing, East Wing, ground/upper floors).
+The staff roles and equipment types — librarians, senior assistants, system/digital librarians, binding technicians, porters, security, cleaners, and the trolleys, vans, pick-up trucks, projectors, photocopy machines and printers, Braille readers, computers.
+
+5. Which fields were estimated/derived/modelled:
+The coordinates (x_coord, y_coord); a local grid placed by approximate position, not measured with GPS or a tape.
+The distances and travel times on routes- estimated, not stopwatch-timed (yet).
+The condition_weight values — assigned by judgement (stairs = higher), not formally scored.
+Most of the 300 service requests — modelled to reflect realistic library patterns and peak/off-peak behaviour, with my own sequential IDs, not copied from real patron records.
+The urgency, deadline and status values — set by realistic rules per request type.
+The exact staff counts and availability — estimated from typical shift patterns rather than a live roster.
+
+The project brief requires the final dataset to be Ghana-localised and privacy-respecting.

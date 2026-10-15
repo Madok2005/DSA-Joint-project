@@ -1,0 +1,31 @@
+﻿resource_id,resource_type,home_location_id,capacity,availability_status
+S001,Circulation Officer,L011,1,AVAILABLE
+S002,Reference Librarian,L005,1,AVAILABLE
+S003,Shelver,L032,25,BUSY
+S004,ILL Officer,L033,1,OFF_DUTY
+S005,Digitisation Technician,L028,1,AVAILABLE
+S006,Accessibility Assistant,L010,1,AVAILABLE
+S007,Library ICT Officer,L034,1,BUSY
+S008,Book Trolley,L032,40,OFF_DUTY
+S009,Book Trolley,L032,35,AVAILABLE
+S010,Courier Van,L033,150,AVAILABLE
+S011,Delivery Rider,L033,30,BUSY
+S012,Circulation Officer,L011,1,OFF_DUTY
+S013,Reference Librarian,L005,1,AVAILABLE
+S014,Shelver,L032,25,AVAILABLE
+S015,ILL Officer,L033,1,BUSY
+S016,Digitisation Technician,L028,1,OFF_DUTY
+S017,Accessibility Assistant,L010,1,AVAILABLE
+S018,Library ICT Officer,L034,1,AVAILABLE
+S019,Book Trolley,L032,40,BUSY
+S020,Book Trolley,L032,35,OFF_DUTY
+S021,Courier Van,L033,150,AVAILABLE
+S022,Delivery Rider,L033,30,AVAILABLE
+S023,Circulation Officer,L011,1,BUSY
+S024,Reference Librarian,L005,1,OFF_DUTY
+S025,Shelver,L032,25,AVAILABLE
+S026,ILL Officer,L033,1,AVAILABLE
+S027,Digitisation Technician,L028,1,BUSY
+S028,Accessibility Assistant,L010,1,OFF_DUTY
+S029,Library ICT Officer,L034,1,AVAILABLE
+S030,Book Trolley,L032,40,AVAILABLE
